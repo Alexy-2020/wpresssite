@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(/img/image.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+h2{
+    font-size: 35px;
+    color: gray;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+p{
+    font-size: 17px;
+    color: gray;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.btn-default{
+    background: transparent;
+    width: 180px;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: 19px;
+    color: gray;
+}
+
+h1{
+    font-size: 35px;
+    color: lightblue;
+}
+
+.input-group{
+    margin-top: 15px;
+}
+
+.input-group-addon{
+    background: transparent;
+    color: gray;
+    padding: 14px;
+    font-size: 20px;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid gray;
+}
+
+.form-control{
+    background: transparent;
+    padding: 28px;
+    font-size: 24px;
+    border-bottom: 1px solid gray;
+    border: 0px;
+}
+
